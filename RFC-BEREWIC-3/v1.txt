@@ -1,0 +1,3 @@
+Reserved for future use.
+
+If berewic-v1 is successful, this document will formally describe the berewic-v2 API
