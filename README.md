@@ -19,10 +19,10 @@ Berewic Exchange over HTTP.
 Taking RFC-BEREWIC-1 above, this document applies the lessons to protecting an HTTP resource.
 
 ## [RFC-BEREWIC-3](https://github.com/Csi18nAlistairMann/berewic-docs/tree/master/RFC-BEREWIC-3)
-berewicd API.   
+berewic-v2 API.   
 Reserved for later. The expectation is that if Berewic-v1 proves its worth, a formal treatment of the API will appear here for Berewic-v2. 
 
 ## [RFC-BEREWIC-3exp](https://github.com/Csi18nAlistairMann/berewic-docs/tree/master/RFC-BEREWIC-3exp)
-Expedient berewicd API.  
+berewic-v1 ('Expedient') API.  
 'Expedient' is the internal name for the first version of the berewicd prototype: the API described within has been created on the fly as the expedience of the moment requires. 
 
