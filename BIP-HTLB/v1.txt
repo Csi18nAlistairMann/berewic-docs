@@ -1,0 +1,1 @@
+Placeholder for the HTLB BIP proposed to the bitcoin devs 
